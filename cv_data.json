@@ -1,0 +1,11 @@
+{
+  "personal_info": {
+    "name": "Your Name",
+    "email": "your.email@domain.com",
+    "research_interests": ["AI", "Machine Learning", "Your Interests"]
+  },
+  "technical_skills": {
+    "programming": ["Python", "Your Skills"],
+    "research_experience": ["Your Projects"]
+  }
+}
